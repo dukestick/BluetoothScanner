@@ -1,4 +1,3 @@
-//
 
 import SwiftUI
 
@@ -6,7 +5,7 @@ import SwiftUI
 struct BluetoothScannerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BluetoothScannerView()
         }
     }
 }
